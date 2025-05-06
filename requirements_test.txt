@@ -22,7 +22,7 @@ backports.entry-points-selectable==1.1.0
     # via virtualenv
 base36==0.1.1
     # via pymeteobridge (setup.cfg)
-black==21.9b0
+black==24.3.0
     # via pymeteobridge (setup.cfg)
 build==0.7.0
     # via pymeteobridge (setup.cfg)
@@ -112,7 +112,7 @@ prompt-toolkit==3.0.21
     # via ipython
 ptyprocess==0.7.0
     # via pexpect
-py==1.10.0
+py==1.11.0
     # via
     #   pytest
     #   tox
@@ -193,11 +193,11 @@ typing-extensions==3.10.0.2
     #   aiohttp
     #   black
     #   mypy
-virtualenv==20.9.0
+virtualenv==20.26.6
     # via tox
 wcwidth==0.2.5
     # via prompt-toolkit
-wheel==0.37.0
+wheel==0.38.1
     # via pip-tools
 wrapt==1.13.3
     # via astroid
