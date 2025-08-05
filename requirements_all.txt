@@ -20,7 +20,7 @@ decorator==5.1.0
     # via ipython
 idna==3.7
     # via yarl
-ipython==7.31.1
+ipython==8.10.0
     # via pymeteobridge (setup.cfg)
 jedi==0.18.0
     # via ipython
