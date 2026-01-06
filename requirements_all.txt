@@ -4,7 +4,7 @@
 #
 #    pip-compile --extra=shell --output-file=requirements_all.txt setup.cfg
 #
-aiohttp==3.12.5
+aiohttp==3.13.3
     # via pymeteobridge (setup.cfg)
 appnope==0.1.2
     # via ipython
