@@ -22,7 +22,7 @@ backports.entry-points-selectable==1.1.0
     # via virtualenv
 base36==0.1.1
     # via pymeteobridge (setup.cfg)
-black==24.3.0
+black==26.3.1
     # via pymeteobridge (setup.cfg)
 build==0.7.0
     # via pymeteobridge (setup.cfg)
@@ -40,7 +40,7 @@ decorator==5.1.0
     # via ipython
 distlib==0.3.3
     # via virtualenv
-filelock==3.3.2
+filelock==3.20.1
     # via
     #   tox
     #   virtualenv
@@ -55,7 +55,7 @@ idna==3.10
     # via yarl
 iniconfig==1.1.1
     # via pytest
-ipython==7.29.0
+ipython==7.31.1
     # via pymeteobridge (setup.cfg)
 isort==5.9.3
     # via pylint
@@ -193,7 +193,7 @@ typing-extensions==3.10.0.2
     #   aiohttp
     #   black
     #   mypy
-virtualenv==20.26.6
+virtualenv==20.36.1
     # via tox
 wcwidth==0.2.5
     # via prompt-toolkit
