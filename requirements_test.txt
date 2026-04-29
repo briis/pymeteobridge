@@ -136,7 +136,7 @@ pyparsing==2.4.7
     # via packaging
 pyproject-flake8==0.0.1a2
     # via pymeteobridge (setup.cfg)
-pytest==6.2.5
+pytest==9.0.3
     # via
     #   pymeteobridge (setup.cfg)
     #   pytest-asyncio
