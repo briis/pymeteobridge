@@ -4,7 +4,7 @@
 #
 #    pip-compile --extra=shell --output-file=requirements_all.txt setup.cfg
 #
-aiohttp==3.13.3
+aiohttp==3.13.4
     # via pymeteobridge (setup.cfg)
 appnope==0.1.2
     # via ipython
@@ -40,7 +40,7 @@ prompt-toolkit==3.0.21
     # via ipython
 ptyprocess==0.7.0
     # via pexpect
-pygments==2.15.0
+pygments==2.20.0
     # via ipython
 termcolor==1.1.0
     # via pymeteobridge (setup.cfg)
