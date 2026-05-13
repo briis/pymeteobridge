@@ -4,7 +4,7 @@
 #
 #    pip-compile --extra=dev --output-file=requirements_test.txt --pip-args='-c requirements_all.txt' setup.cfg
 #
-aiohttp==3.13.3
+aiohttp==3.13.4
     # via pymeteobridge (setup.cfg)
 appnope==0.1.2
     # via ipython
@@ -55,7 +55,7 @@ idna==3.10
     # via yarl
 iniconfig==1.1.1
     # via pytest
-ipython==7.31.1
+ipython==9.13.0
     # via pymeteobridge (setup.cfg)
 isort==5.9.3
     # via pylint
@@ -124,7 +124,7 @@ pydocstyle==6.1.1
     #   pymeteobridge (setup.cfg)
 pyflakes==2.4.0
     # via flake8
-pygments==2.19.2
+pygments==2.20.0
     # via ipython
 pylint==2.11.1
     # via
