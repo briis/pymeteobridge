@@ -2,6 +2,10 @@
 
 ![Latest PyPI version](https://img.shields.io/pypi/v/pymeteobridgedata) ![Supported Python](https://img.shields.io/pypi/pyversions/pymeteobridgedata)
 
+> [!NOTE] THIS MODULE IS NO LONGER MAINTAINED
+> I am no longer maintaining this module, but fortunately @iu1jvo has taken on the task instead of me. So please see [his fork](https://github.com/iu1jvo/meteobridge) of the repository for any change request and questions
+
+
 This module communicates with a [Meteobridge Datalogger](https://www.meteobridge.com/wiki/index.php/Home) using [their Template Script](https://www.meteobridge.com/wiki/index.php/Add-On_Services).
 
 The module is primarily written for the purpose of being used in Home Assistant for the Custom Integration called `meteobridge` but might be used for other purposes also.
